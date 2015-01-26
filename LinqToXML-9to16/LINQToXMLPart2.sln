@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQToXMLPart2", "LINQToXMLPart2\LINQToXMLPart2.csproj", "{31EB3E5A-7ED0-4BCE-9FED-AAB92CF2D590}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "LINQToXMLPart2VB", "LINQToXMLPart2VB\LINQToXMLPart2VB.vbproj", "{76CD9F65-9D46-48E2-8531-3ED34CD9750D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31EB3E5A-7ED0-4BCE-9FED-AAB92CF2D590}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31EB3E5A-7ED0-4BCE-9FED-AAB92CF2D590}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31EB3E5A-7ED0-4BCE-9FED-AAB92CF2D590}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31EB3E5A-7ED0-4BCE-9FED-AAB92CF2D590}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76CD9F65-9D46-48E2-8531-3ED34CD9750D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76CD9F65-9D46-48E2-8531-3ED34CD9750D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76CD9F65-9D46-48E2-8531-3ED34CD9750D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76CD9F65-9D46-48E2-8531-3ED34CD9750D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

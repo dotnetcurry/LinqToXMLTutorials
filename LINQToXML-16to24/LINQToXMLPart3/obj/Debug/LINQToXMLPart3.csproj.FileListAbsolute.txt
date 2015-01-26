@@ -1,0 +1,7 @@
+C:\Users\Administrator.suprotim\Documents\Visual Studio 2008\Projects\LINQ\LINQToXMLPart3\LINQToXMLPart3\bin\Debug\LINQToXMLPart3.exe
+C:\Users\Administrator.suprotim\Documents\Visual Studio 2008\Projects\LINQ\LINQToXMLPart3\LINQToXMLPart3\bin\Debug\LINQToXMLPart3.pdb
+C:\Users\Administrator.suprotim\Documents\Visual Studio 2008\Projects\LINQ\LINQToXMLPart3\LINQToXMLPart3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator.suprotim\Documents\Visual Studio 2008\Projects\LINQ\LINQToXMLPart3\LINQToXMLPart3\obj\Debug\LINQToXMLPart3.exe
+C:\Users\Administrator.suprotim\Documents\Visual Studio 2008\Projects\LINQ\LINQToXMLPart3\LINQToXMLPart3\obj\Debug\LINQToXMLPart3.pdb
+C:\Users\Suprotim\Downloads\LINQToXMLPart3\LINQToXMLPart3\LINQToXMLPart3\LINQToXMLPart3\obj\Debug\LINQToXMLPart3.exe
+C:\Users\Suprotim\Downloads\LINQToXMLPart3\LINQToXMLPart3\LINQToXMLPart3\LINQToXMLPart3\obj\Debug\LINQToXMLPart3.pdb

@@ -1,0 +1,9 @@
+C:\Users\Administrator.suprotim\Documents\Visual Studio 2008\Projects\LINQ\LINQToXMLPart3\LINQToXMLPart3VB\bin\Debug\LINQToXMLPart3VB.exe
+C:\Users\Administrator.suprotim\Documents\Visual Studio 2008\Projects\LINQ\LINQToXMLPart3\LINQToXMLPart3VB\bin\Debug\LINQToXMLPart3VB.pdb
+C:\Users\Administrator.suprotim\Documents\Visual Studio 2008\Projects\LINQ\LINQToXMLPart3\LINQToXMLPart3VB\bin\Debug\LINQToXMLPart3VB.xml
+C:\Users\Administrator.suprotim\Documents\Visual Studio 2008\Projects\LINQ\LINQToXMLPart3\LINQToXMLPart3VB\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator.suprotim\Documents\Visual Studio 2008\Projects\LINQ\LINQToXMLPart3\LINQToXMLPart3VB\obj\Debug\LINQToXMLPart3VB.Resources.resources
+C:\Users\Administrator.suprotim\Documents\Visual Studio 2008\Projects\LINQ\LINQToXMLPart3\LINQToXMLPart3VB\obj\Debug\LINQToXMLPart3VB.vbproj.GenerateResource.Cache
+C:\Users\Administrator.suprotim\Documents\Visual Studio 2008\Projects\LINQ\LINQToXMLPart3\LINQToXMLPart3VB\obj\Debug\LINQToXMLPart3VB.exe
+C:\Users\Administrator.suprotim\Documents\Visual Studio 2008\Projects\LINQ\LINQToXMLPart3\LINQToXMLPart3VB\obj\Debug\LINQToXMLPart3VB.xml
+C:\Users\Administrator.suprotim\Documents\Visual Studio 2008\Projects\LINQ\LINQToXMLPart3\LINQToXMLPart3VB\obj\Debug\LINQToXMLPart3VB.pdb
